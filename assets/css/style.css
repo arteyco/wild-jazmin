@@ -15,7 +15,7 @@ font-family: 'Poppins', sans-serif;
 1.  General css (Reset code)
 2. 	Header
 3. 	About
-5.  Travel-box
+4.  Travel-box
 5.  Service
 6.  Gallery
 7.  Discount-offer
@@ -85,7 +85,7 @@ p {
 
 }
 
-img{	border:none;max-width:90%; height:auto;}
+img{	border:none;max-width:40%; height:auto;}
 
 ul{
 
@@ -304,7 +304,7 @@ html,body{
 	background: url(../../assets/images/home/banner.jpg)no-repeat;
 	background-size: cover;
 	background-position: center;
-	min-height: 1000px;
+	min-height: 611px;
 }
 .about-us:before{
 	position: absolute;
