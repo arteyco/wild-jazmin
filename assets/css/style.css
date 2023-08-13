@@ -85,7 +85,7 @@ p {
 
 }
 
-img{	border:none;max-width:100%; height:auto;}
+img{	border:none;max-width:90%; height:auto;}
 
 ul{
 
@@ -378,7 +378,7 @@ html,body{
 --------------------------------------*/
 .single-travel-boxes {
     margin-top: -125px;
-    background: #fff;
+    background: #0f0;
 }
 .tab-para p {
     font-size: 24px;
