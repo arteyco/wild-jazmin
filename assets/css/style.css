@@ -386,7 +386,7 @@ html,body{
 /* .desc-tabs */
 .desc-tabs {
     border: transparent;
-    box-shadow: 0 10px 20px rgba(0,0,0,.1);
+   /* box-shadow: 0 10px 20px rgba(0,0,0,.1);*/
 }
 .desc-tabs .nav-tabs {
     display: inline-block;
