@@ -430,7 +430,7 @@ html,body{
 }
 .single-travel-boxes .nav>li>a:focus, 
 .single-travel-boxes .nav>li>a:hover {
-	color: #565a5c;
+	color: #000;
 	background: #fff;
 	border: 0;
     text-decoration: none;
