@@ -967,7 +967,7 @@ html,body{
 /*testemonial-carousel*/
 .home1-testm-single {
     max-width: 345px;
-    background: #fff;
+    background: #0f0f0f;
     padding: 50px 0;
     box-shadow: 0 0 20px rgba(0,0,0,.1);
     -webkit-transition: .5s; 
@@ -1169,7 +1169,7 @@ html,body{
         11. Blog
 --------------------------------------*/
 .blog{
-    background: #fff;
+    background: #0f0f0f;
         padding: 115px 0 92px;
 }
 
@@ -1234,7 +1234,7 @@ html,body{
 
 /*.caption*/
 .blog-content .caption {
-    background:#fff;
+    background:#0f0f0f;
     -webkit-transition: .5s;
     -moz-transition: .5s;
     -ms-transition: .5s;
@@ -1392,7 +1392,7 @@ html,body{
         13.  Footer-copyright
 --------------------------------------*/
 .footer-copyright{
-    background:#0f0f0f;
+    background:#05050;
     padding: 0 0 60px;
 }
 .footer-content{
